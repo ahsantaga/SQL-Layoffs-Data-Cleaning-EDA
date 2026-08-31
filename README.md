@@ -371,7 +371,7 @@ LIMIT 10;
 
 ### Screenshot
 
-![Top 10 Companies by Total Layoffs](Screenshots/Top_10_companies_by_total_layoffs.png)
+![Top 10 Companies by Total Layoffs](Screenshot/top-10-companies-by-total-layoffs.png)
 
 ---
 
@@ -393,7 +393,7 @@ LIMIT 10;
 
 ### Screenshot
 
-![Largest Single Layoff Events](Screenshots/Largest_Single_Layoff_Events.png)
+![Largest Single Layoff Events](Screenshot/largest-single-layoff-events.png)
 
 ---
 
@@ -515,7 +515,7 @@ FROM monthly_layoffs;
 
 ### Screenshot
 
-![Monthly Layoffs](Screenshots/Monthly_layoff.png)
+![Monthly Layoffs](Screenshot/monthly-layoffs.png)
 
 ---
 
@@ -594,11 +594,11 @@ The output was split into two screenshots because the query returns multiple yea
 
 ### 2020–2023
 
-![Top 5 Companies 2020-2023](Screenshots/top_5_company_by_year_2020_2023.png)
+![Top 5 Companies 2020-2023](Screenshot/top-5-companies-2020-2023.png)
 
 ### 2024–2026
 
-![Top 5 Companies 2024-2026](Screenshots/top_5_company_by_year_2024_2026.png)
+![Top 5 Companies 2024-2026](Screenshot/top-5-companies-2024-2026.png)
 
 ---
 
