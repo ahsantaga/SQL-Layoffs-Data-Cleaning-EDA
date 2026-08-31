@@ -371,7 +371,7 @@ LIMIT 10;
 
 ### Screenshot
 
-![Top 10 Companies by Total Layoffs](C:\Users\User\Desktop\PROJECTS\SQL\Global_layoffs\Screenshot)
+![Top 10 Companies by Total Layoffs](Screenshots/Top_10_companies_by_total_layoffs.png)
 
 ---
 
