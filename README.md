@@ -1,6 +1,6 @@
 # SQL Layoffs Data Cleaning & Exploratory Data Analysis
 
-### MySQL | Data Cleaning | Exploratory Data Analysis | Window Functions | Business Intelligence
+### MySQL | Data Cleaning | Exploratory Data Analysis | Window Functions 
 
 An end-to-end **MySQL data cleaning and exploratory data analysis project** using a layoffs dataset.
 
